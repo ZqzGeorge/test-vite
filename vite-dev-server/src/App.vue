@@ -1,3 +1,6 @@
 <template>
-  <div>hello vite in vue</div>
+  123
 </template>
+<script>
+  console.log('output->123123')
+</script>
